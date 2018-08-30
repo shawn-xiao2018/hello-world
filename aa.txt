@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 shawn shawn 4096 8月  30 10:17 ./
+drwxrwxr-x 5 shawn shawn 4096 8月  30 10:16 ../
+-rw-rw-r-- 1 shawn shawn    0 8月  30 10:17 aa.txt
+drwxrwxr-x 8 shawn shawn 4096 8月  30 10:16 .git/
+-rw-rw-r-- 1 shawn shawn   19 8月  30 10:16 README.md
